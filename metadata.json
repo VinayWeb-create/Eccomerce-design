@@ -1,6 +1,7 @@
 {
   "name": "Deeptha Naturals Platform",
-  "description": "Premium AI E-Commerce, Customer CRM, AI Chat & Multilingual Voice Calling Operating System for Deeptha Naturals",
+  "description": "Premium AI E-Commerce, Customer CRM, AI Chat & Multilingual Voice Calling Operating System for Deeptha Naturals - Built by Vinay",
+  "author": "Vinay (https://github.com/VinayWeb-create)",
   "requestFramePermissions": ["microphone"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

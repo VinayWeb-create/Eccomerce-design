@@ -156,7 +156,21 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenAdminAuth, onO
 
         {/* Bottom copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#A89E8C]">
-          <p>© {new Date().getFullYear()} Deeptha Naturals. All rights reserved.</p>
+          <div className="flex flex-col sm:flex-row items-center gap-2">
+            <p>© {new Date().getFullYear()} Deeptha Naturals. All rights reserved.</p>
+            <span className="hidden sm:inline text-[#2E5B38]">•</span>
+            <p>
+              Built by{' '}
+              <a
+                href="https://github.com/VinayWeb-create"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#D4AF37] hover:underline font-semibold"
+              >
+                Vinay
+              </a>
+            </p>
+          </div>
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-1">
               <span>Crafted with</span>

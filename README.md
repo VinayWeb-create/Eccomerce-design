@@ -1,5 +1,8 @@
 # Deeptha Naturals - AI E-Commerce, CRM & Voice Operating System
 
+> **Built by [Vinay](https://github.com/VinayWeb-create)**  
+> Live Demo: [eccomerce-design.vercel.app](https://eccomerce-design.vercel.app/)
+
 Welcome to the **Deeptha Naturals** enterprise digital operating platform. Deeptha Naturals produces 100% pure cold-pressed oils, A2 Vedic cow ghee, organic honey, sugar-free sweets, roasted snacks, authentic homemade podis, and traditional pickles using state-of-the-art German technology and traditional methods.
 
 ## Key Features
